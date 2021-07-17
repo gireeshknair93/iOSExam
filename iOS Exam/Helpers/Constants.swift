@@ -10,6 +10,9 @@ import Foundation
 struct Constants {
     struct  HomeView {
         static let imageListCell = "ImageListCell"
+        static let contentListCell = "contentCell"
+        static let searchCell = "searchCell"
+        static let imageCell = "imageCell"
         static let defaultCellCount = 0
     }
 }

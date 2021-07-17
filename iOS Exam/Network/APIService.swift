@@ -1,6 +1,5 @@
 //
 //  APIService.swift
-//  TaxiPickup
 
 import Foundation
 class APIService: NSObject, APIServiceProtocol{

@@ -19,5 +19,10 @@ class ContentListTableViewCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
-    
+    func loadDataOnCell(model:HomeSubList?){
+        if let model = model{
+        self.imageView?.image = UIImage(named: "listIcon")
+        self.textLabel?.text = model.title
+        }
+    }
 }
