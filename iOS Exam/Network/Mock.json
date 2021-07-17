@@ -1,0 +1,36 @@
+{
+    "introduction": [{
+        "image":"Intro-1",
+        "title": "Your app is your key",
+        "description": "App > Scooter > Go"
+    }, {
+        "image":"Intro-2",
+        "title": "Reserve your scooter",
+        "description": "Select the nearest scooter and reserve it. You have 15 free minutes to reach the vehicle."
+    }, {
+        "image":"Intro-3",
+        "title": "Locate the scooter",
+        "description": "If you are close to the scooter and you see your Hala bike, press this button in the app to make the honking sound and the lights to flash"
+    }, {
+        "image":"Intro-4",
+        "title": "Unlock scooter and wear helmets",
+        "description": "Press the unlock button in the app to start the vehicle and press the helmet icon to access the trunk case."
+    }, {
+        "image":"Intro-5",
+        "title": "Ready? lets, start!",
+        "description": "Put down the scooters central stand, on the left hand rotate the hand gear from P to D and you are ready to HALA"
+    }, {
+        "image":"Intro-6",
+        "title": "HALA zone",
+        "description": "HALA zone where we provide our service and where you can end the trip too. Check the app if your destination is in this area."
+    }, {
+        "image":"Intro-7",
+        "title": "Park and end",
+        "description": "Check for as legal parking area and end the trip but pressing the power button on the app."
+    }, {
+        "image":"Intro-8",
+        "title": "Follow traffic rules",
+        "description": "Check the traffic and parking rules in your city. driver with caution and responsibility."
+    }]
+}
+
